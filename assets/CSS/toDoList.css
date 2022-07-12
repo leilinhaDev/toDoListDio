@@ -2,7 +2,7 @@ body {
     background-color: rgb(252, 233, 209);
 }
 
-#addTarefa {
+#nomeTarefa {
     border-radius: 4px;
     height: 25px;
 }
@@ -14,4 +14,16 @@ button {
     background-color: rgb(201, 253, 253);
     color: rgb(70, 141, 248);
 
+}
+
+#listaTarefa {
+    margin-top: 20px;
+}
+
+.linhaTarefa {
+    margin-bottom: 5px;
+}
+
+.checado {
+    text-decoration: line-through;
 }
